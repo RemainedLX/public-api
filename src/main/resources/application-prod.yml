@@ -1,2 +1,5 @@
 font:
   path: /home/server/public-api/file
+contract:
+  file:
+    path:  /home/file/contract/

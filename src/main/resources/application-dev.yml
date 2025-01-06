@@ -1,2 +1,5 @@
 font:
   path: C:/soft/download/SimHei.ttf
+contract:
+    file:
+      path: C:/soft/test/
