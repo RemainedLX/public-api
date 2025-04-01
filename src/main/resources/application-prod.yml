@@ -1,5 +1,5 @@
 font:
-  path: /home/server/public-api/file
+  path: /home/server/public-api/file/SimHei.ttf
 contract:
   file:
     path:  /home/file/contract/
